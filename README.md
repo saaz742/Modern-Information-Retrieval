@@ -96,10 +96,8 @@ Sharif university
             
       - [Name Entity Recognition](https://github.com/saaz742/Modern-Information-Retrieval/tree/main/HWs/NER)
       
- - [Project]()
+ - [Project](https://github.com/saaz742/Modern-Information-Retrieval/tree/main/Project)
 
  - [Presentation]()
-   - []()
- 
- - [Note]()
+
 
