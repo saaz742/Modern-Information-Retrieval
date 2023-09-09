@@ -3,7 +3,7 @@ Modern Information Retrieval course SUT Spring 2022
 
 Dr. Asgari
 
-Spring 2023
+Spring 2022
 
 Sharif university
 
