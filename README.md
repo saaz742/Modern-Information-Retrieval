@@ -97,7 +97,10 @@ Sharif university
       - [Name Entity Recognition](https://github.com/saaz742/Modern-Information-Retrieval/tree/main/HWs/NER)
       
  - [Project](https://github.com/saaz742/Modern-Information-Retrieval/tree/main/Project)
+    - [Organization](https://github.com/IR1401-Spring-Final-Projects/SocialMediaHealth1401-19_39)
+      
 
- - [Presentation]()
+ - [Presentation](https://github.com/saaz742/Modern-Information-Retrieval/tree/main/Presentation)
+    - [Gilaki](https://github.com/saaz742/Modern-Information-Retrieval/blob/main/Presentation/gilaki.pdf)
 
 
